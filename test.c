@@ -1,4 +1,5 @@
-int main(int argc, char const *argv[]) {
+nt main(int argc, char const *argv[]) {
   printf("Hello World");
-  return 0;
-}
+  printf("私の名前はみわゆきなです\n");
+  return 0
+
